@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.about-singup{background: url(../img/mountains-3523153_1280.jpg);background-repeat: no-repeat;background-size: cover;min-height: 100vh;}
+.wrapper{max-width: 1200px;margin: 0 auto;}
+.absu{
+    color: #fff;
+}
+.col-2{
+    width: 50%;
+    float: left;
+    padding: 100px;
+}
+.absu h1{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.absu samp{
+    color: #6EBD6C;
+}
+.absu p{
+    font-size: 20px;
+}
+.absu ul{
+    margin: 30px 0;
+    list-style: none;
+}
+.absu ul li{
+    font-size: 20px;
+    padding: 5px 0px;
+}
+.absu .learn-more{
+    background: #6EBD6C;
+    color: #fff;
+    padding: 10px 30px;
+    display: inline;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 20px;
+}
+.login{
+    width: 400px;
+    background: #6EBD6C;
+    padding: 20px;
+}
+.login h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 15px;
+    font-size: 35px;
+}
+.login p{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+.login input{
+    width: 100%;
+    margin: 5px auto;
+    padding: 15px;
+}
+.rnb{
+    background: #529353;
+    border: 0;
+    border-bottom: 5px solid #3c7d3d;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 20px;
+}
